@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SimpleLoadingBar">
+
+        <attr name="loadingBarColor" format="color" />
+        <attr name="loadingCircleRadius" format="integer" />
+
+    </declare-styleable>
+</resources>
